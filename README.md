@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diego Silva
+### Diego Silva
 
 **Full Stack Developer en formación · Bases de datos · Interés en fintech**
 
@@ -13,6 +13,7 @@
 ### 🎨 Diseño y despliegue
 `Figma` `Vercel`
 
-</div>
+### 📫 Contacto 
+`eduardiego826@gmail.com`
 
-📫 **Contacto:** eduardiego826@gmail.com
+</div>
