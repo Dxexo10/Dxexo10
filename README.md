@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Diego Silva
 
 **Full Stack Developer en formación · Bases de datos · Interés en fintech**
@@ -15,5 +13,3 @@
 
 ### 📫 Contacto 
 `eduardiego826@gmail.com`
-
-</div>
