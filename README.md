@@ -3,7 +3,7 @@
 **Full Stack Developer en formación · Bases de datos · Interés en fintech**
 
 ### 🛠️ Stack principal
-`JavaScript` `TypeScript` `React` `Node.js` `Java`
+`JavaScript` `TypeScript` `React` `Node.js` `Java` `Python`
 
 ### 🗄️ Bases de datos
 `Oracle SQL` `MongoDB` `PostgreSQL` `Supabase` `SQL Sever`
