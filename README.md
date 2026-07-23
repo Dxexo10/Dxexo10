@@ -6,7 +6,7 @@
 `JavaScript` `TypeScript` `React` `Node.js` `Java` `Python`
 
 ### 🗄️ Bases de datos
-`Oracle SQL` `MongoDB` `PostgreSQL` `Supabase` `SQL Sever`
+`Oracle SQL` `MongoDB` `PostgreSQL` `Supabase`
 
 ### 🎨 Diseño y despliegue
 `Figma` `Vercel`
