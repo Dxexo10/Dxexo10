@@ -9,7 +9,7 @@
 `Oracle SQL` `MongoDB` `PostgreSQL` `Supabase`
 
 ### 🎨 Diseño y despliegue
-`Figma` 
+`Figma` `Vercel` 
 
 ### 📫 Contacto 
 `eduardiego826@gmail.com`
