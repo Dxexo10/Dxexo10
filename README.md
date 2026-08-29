@@ -8,17 +8,11 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
-
 ## Start Here
-
 * 🚀 **[NombreProyecto1](https://github.com/...)** - Breve descripción de tu proyecto personal estrella.
 * 👥 **[Concursia](https://github.com/...)** - Proyecto universitario a gran escala (10 devs). *Role: Backend Developer*.
 * 📚 **[NombreProyectoAcademico](https://github.com/...)** - Proyecto destacado de un curso específico.
-
 ---
-
-## Projects
-
 ### Personal Projects
 * 🛠️ **[NombreProyecto1](https://github.com/...)** - Descripción corta de tecnologías y funcionalidad.
 * 🛠️ **[NombreProyecto2](https://github.com/...)** - Descripción corta.
