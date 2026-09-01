@@ -25,4 +25,4 @@
 * 🎓 **[Maylude SAC](https://github.com/...)** - Algoritmos / Base de Datos / Proyecto de asignatura.
 * 🎓 **[TicketHub](https://github.com/...)** - Descripción corta.
 * 🎓 **[SRE-URP](https://github.com/SergioPzr/Sistema-de-Registro-de-Entregables-Academicos)** - Sistema de Registro de Entregables Academicos.
-* 🎓 **[SNP Aportantes](https://github.com/Dxexo10/snp-aportantes-ml)** - Sistema de Registro de Entregables Académicos.
+* 🎓 **[SNP Aportantes](https://github.com/Dxexo10/snp-aportantes-ml)** - SNP Insights es un dashboard analítico y predictivo diseñado con ~4.6 millones de registros históricos de 2023 para estimar la continuidad de aportes de afiliados al SNP de la ONP.
