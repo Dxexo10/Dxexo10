@@ -9,12 +9,12 @@
 
 ---
 ## Start Here
-* 🚀 **[NombreProyecto1](https://github.com/...)** - Breve descripción de tu proyecto personal estrella.
+* 🚀 **[MYPE Flow](https://github.com/Dxexo10/mype-flow)** - Plataforma de diagnóstico, scoring y gestión digital de formalización para MYPEs peruanas.
 * 👥 **[Concursia](https://github.com/...)** - Proyecto universitario a gran escala (10 devs). *Role: Backend Developer*.
 * 📚 **[NombreProyectoAcademico](https://github.com/...)** - Proyecto destacado de un curso específico.
 ---
 ### Personal Projects
-* 🛠️ **[MYPE Flow](https://github.com/...)** - Descripción corta de tecnologías y funcionalidad.
+* 🛠️ **[MYPE Flow](https://github.com/Dxexo10/mype-flow)** - Plataforma de diagnóstico, scoring y gestión digital de formalización para MYPEs peruanas.
 * 🛠️ **[NombreProyecto2](https://github.com/...)** - Descripción corta.
 
 ### Team & Collaborative Projects
