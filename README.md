@@ -14,7 +14,7 @@
 * 📚 **[NombreProyectoAcademico](https://github.com/...)** - Proyecto destacado de un curso específico.
 ---
 ### Personal Projects
-* 🛠️ **[NombreProyecto1](https://github.com/...)** - Descripción corta de tecnologías y funcionalidad.
+* 🛠️ **[MYPE Flow](https://github.com/...)** - Descripción corta de tecnologías y funcionalidad.
 * 🛠️ **[NombreProyecto2](https://github.com/...)** - Descripción corta.
 
 ### Team & Collaborative Projects
